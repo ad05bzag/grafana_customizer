@@ -8,3 +8,12 @@ In case you have active users add a mask in front of the iframe or load the ifra
 
 This method was tested against grafana version 4.0.0-1476697633pre1
 
+
+Here's the original grafana-web:
+![Alt text](/original.png?raw=true "Original Grafana web")
+
+Here's in "visual read-only" mode:
+![Alt text](/embeded_readmode.png?raw=true "Embeded readonly mode")
+
+Here's in "visual write" mode:
+![Alt text](/embeded_writemode.png?raw=true "Embeded write mode")
