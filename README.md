@@ -1,4 +1,4 @@
-# grafana_read_only
+# grafana_customizer
 Hints on how to disable grafana buttons to get kiosk read-only mode.
 
 For this we relly on the great work done by Rafael Weinstein on it's MuttationSummary library.
